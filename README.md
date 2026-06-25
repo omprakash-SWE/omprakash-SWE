@@ -25,5 +25,4 @@ I am a Software Engineer with hands-on experience in Aircraft avionics system in
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=omprakash-SWE&limit=5&theme=dark&combine_all_yearly_contributions=true)
